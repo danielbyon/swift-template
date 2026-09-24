@@ -1,0 +1,30 @@
+docs/agents/issue-tracker.md
+  s_76f944588f3b38::t_83431754a98aca 1-45
+docs/agents/triage-labels.md
+  s_76f944588f3b38::t_83431754a98aca 1-15
+AGENTS.md
+  s_76f944588f3b38::t_83431754a98aca 1-13
+docs/agents/domain.md
+  s_76f944588f3b38::t_83431754a98aca 1-51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "522395407608a271c9c203eb1ded4d87f5d4cc9b",
+  "prompts": {},
+  "humans": {
+    "h_a1fa5c19d60fed": {
+      "author": "Daniel Byon <daniel@danielbyon.com>"
+    }
+  },
+  "sessions": {
+    "s_76f944588f3b38": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0d311-96c4-78d0-a82b-632fe6bbed5a",
+        "model": "gpt-6-luna"
+      },
+      "human_author": "Daniel Byon <daniel@danielbyon.com>"
+    }
+  }
+}
