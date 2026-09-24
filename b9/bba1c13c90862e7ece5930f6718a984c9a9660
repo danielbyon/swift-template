@@ -1,0 +1,20 @@
+.gitignore
+  h_a1fa5c19d60fed 63
+Scripts/swift-tools-local.sh
+  h_a1fa5c19d60fed 1-10
+Scripts/swift-tools.lock
+  h_a1fa5c19d60fed 1-4
+Scripts/swift-tools.sh
+  h_a1fa5c19d60fed 1-270
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b9bba1c13c90862e7ece5930f6718a984c9a9660",
+  "prompts": {},
+  "humans": {
+    "h_a1fa5c19d60fed": {
+      "author": "Daniel Byon <daniel@danielbyon.com>"
+    }
+  }
+}
